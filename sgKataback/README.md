@@ -1,4 +1,4 @@
-# BankKata Back End
+# SgKata Back End
  maven project , devolepped with spring boot and spring security 
 ## Testing with self signed certificates:
 
